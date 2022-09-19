@@ -1,0 +1,7 @@
+F:\project\homework\3120002096\resource\orig_0.8_add.txt与原文的相似度为：0.7
+F:\project\homework\3120002096\resource\orig_0.8_del.txt与原文的相似度为：0.72
+F:\project\homework\3120002096\resource\orig_0.8_dis_1.txt与原文的相似度为：0.78
+F:\project\homework\3120002096\resource\orig_0.8_dis_10.txt与原文的相似度为：0.66
+F:\project\homework\3120002096\resource\orig_0.8_dis_15.txt与原文的相似度为：0.55
+F:\project\homework\3120002096\resource\orig_0.8_add.txt与原文的相似度为：0.7
+F:\project\homework\3120002096\resource\orig_0.8_add.txt与原文的相似度为：0.7
